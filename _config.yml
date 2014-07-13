@@ -1,11 +1,11 @@
 # Site settings
-title: "Jack Serrino's Home"
+title: "Jack Serrino"
 email: "jserrino@mit.edu"
-description: "The home and blog of Jack Serrino"
+description: "Because in this day and age, everyone needs a website"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://jackserrino.com"
+twitter_username: Detry322
+github_username:  Detry322
 
 # Build settings
 markdown: kramdown
