@@ -9,9 +9,15 @@ description: Quick overview on how to post code snippets using Liquid tags and h
 
 Whenever you need to post a code snippet, use the liquid tags `hilight` and `endhilight` like this:
 
-{% highlight ruby %}
-# some code goes here
-puts "Hello World!"
+{% highlight c %}
+#import <iostream>
+
+using namespace std;
+
+int main(void)
+{
+  cout << "Hello World";
+}
 {% endhighlight %}
 
 Note that this only provides color-coding. For that you might need to use a front end colorization engine like Highlight.JS or something similar.
