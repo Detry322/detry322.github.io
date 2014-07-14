@@ -1,13 +1,20 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
+@font-face {
+  font-family: 'Avenir Next';
+  src: url('/assets/fonts/avenir-next-ultra-light.ttf') format('truetype');
+  font-weight: lighter;
+  font-style: normal;
+}
+
 body{
-  background-color: white
+  background-color: white;
 	color: #2c3e50;
 }
 
 .sidebar {
 	position: fixed;
-	top: 0px;
+	top: 0;
 	padding-top: 10%;
 	background-color: rgb(66,139,202);
 	color: #fff;
