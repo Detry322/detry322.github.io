@@ -3,12 +3,12 @@ layout: post
 title: Using the Web Icons
 category: Design
 
-excerpt: Quick overview on how to use the Typicon web font icons included with this template. 
+description: Quick overview on how to use the Typicon web font icons included with this template.
 
 ---
 
 This template uses [Typicons][ty] web font, provided by [Fontello][fo] font bundling service. It allows you to quickly
-add nice icons into your pages by using css tags. 
+add nice icons into your pages by using css tags.
 
 To add an icon somewhere in the template simply do:
 
