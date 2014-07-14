@@ -1,11 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
-@font-face {
-  font-family: 'Avenir Next UL';
-  src: url('/assets/fonts/avenir-next-ultra-light.ttf');
-  font-style: normal;
-}
-
 body{
   background-color: white;
 	color: #2c3e50;
@@ -103,7 +97,7 @@ article .share .gplus:hover {
 
 .page-header h1
 {
-  font-family: 'Avenir Next UL', sans-serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-size: 65px;
 }
 
